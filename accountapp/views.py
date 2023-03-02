@@ -11,6 +11,7 @@ from django.contrib.auth.forms import UserCreationForm
 from accountapp.forms import AccountUpdateForm
 from accountapp.models import HelloWorld
 from accountapp.decorators import account_ownership_required
+from commentapp.froms import CommentCreationForm
 
 has_ownership = [login_required, account_ownership_required]
 
