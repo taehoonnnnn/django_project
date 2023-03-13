@@ -10,4 +10,3 @@ pytz==2022.7.1
 soupsieve==2.4
 sqlparse==0.4.3
 zipp==3.14.0
-gunicon==20.1.0
