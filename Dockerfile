@@ -2,7 +2,7 @@ FROM python:3.9.0
 
 WORKDIR /home/
 
-RUN echo "testing3"
+RUN echo "testing4"
 
 RUN git clone https://github.com/taehoonnnnn/django_project.git
 
